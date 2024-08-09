@@ -45,6 +45,13 @@ pip install twilio
 ```
 ## Twilio API KEYS
 <p>Go to the <a href="https://bit.ly/3WHoCQA">Twilio</a> and SignIn</p>
+<p>Get account sid, token and twilio phone number from the website after signin</p>
+<p>Enter account sid and token in <b>account_sid</b> and <b>auth_token</b> inside the empty string</p>
+<p>Enter your Twilio phone number in the <b>from_</b> field, and enter the mobile number you used to sign up for your Twilio account in the <b>to</b> field.</p>
+
+
+
+
 ## Clone the Repository
 <p>open the terminal on windows or linux and paste this code</p>
 
