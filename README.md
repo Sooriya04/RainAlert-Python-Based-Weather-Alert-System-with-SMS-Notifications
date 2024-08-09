@@ -58,7 +58,7 @@ pip install twilio
 <p>open the terminal on windows or linux and paste this code</p>
 
 ```bash
-
+git clone https://github.com/Sooriya04/RainAlert-Python-Based-Weather-Alert-System-with-SMS-Notifications.git
 ```
 ### To Run the file
 
