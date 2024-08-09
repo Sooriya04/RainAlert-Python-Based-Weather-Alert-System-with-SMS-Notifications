@@ -33,7 +33,6 @@
 # RainAlert-Python-Based-Weather-Alert-System-with-SMS-Notifications
 RainAlert is a Python program designed to keep you informed about the weather, particularly when rain is expected. Utilizing the OpenWeather API, the program fetches real-time weather data and, if rain is detected, sends an SMS notification directly to your phone using the Twilio API.
 ## 📥 Download and Installation
-
 To get started with **Rain Alert**, you can easily clone the repository to your local machine. Follow these steps:
 ## Install the request module
 ```bash
@@ -44,19 +43,22 @@ pip install requests
 pip install twilio
 ```
 ## Twilio API KEYS
-<p>Go to the <a href="https://bit.ly/3WHoCQA">Twilio</a> and SignIn</p>
-<p>Get account sid, token and twilio phone number from the website after signin</p>
-<p>Enter account sid and token in <b>account_sid</b> and <b>auth_token</b> inside the empty string</p>
-<p>Enter your Twilio phone number in the <b>from_</b> field, and enter the mobile number you used to sign up for your Twilio account in the <b>to</b> field.</p>
+<p>Go to the <a href="https://bit.ly/3WHoCQA">Twilio</a> and SignUp</p>
+<p>Get account sid, token and twilio phone number from the website after signup</p>
+<p>Enter account sid and token in <b>account_sid</b> and <b>auth_token</b> inside the empty string in the main.py</p>
+<p>Enter your Twilio phone number in the <b>from_</b> field, and enter the mobile number you used to sign up for your Twilio account in the <b>to</b> field in the main.py</p>
 
-
-
+##Open Weather
+<p>Go to the <a href="https://bit.ly/4fRWQtx"><b>Open Weather</b></a> and Signup</p>
+<p>Get an api from the website after signup</p>
+<p>Enter the api key inside <b>api_key</b> inside the empty string</p>
+<p>Get your Latitude and Longitude from <a href="https://bit.ly/4dsL5Ym">LatLong</a> and enter it in <b>lat</b> and <b>long</b> field in main.py </p>
 
 ## Clone the Repository
 <p>open the terminal on windows or linux and paste this code</p>
 
 ```bash
-git clone https://github.com/Sooriya04/PassGuard-python-password-manager-and-generator.git
+
 ```
 ### To Run the file
 
