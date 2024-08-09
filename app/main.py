@@ -17,7 +17,7 @@ def send_sms():
 
 lat = #your lat
 long = #your log
-api_key = #your api key
+api_key = "" #your api key
 params = {
     'lat': lat,
     'lon': long,
